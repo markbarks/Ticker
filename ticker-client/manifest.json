@@ -1,0 +1,13 @@
+{
+    "name": "Ticker",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "app": {
+        "background": {
+            "scripts": ["main.js"]
+        }
+    },
+    "icons": {
+        "128": "app/img/128px-Edison_stock_ticker.png"
+    }
+}
